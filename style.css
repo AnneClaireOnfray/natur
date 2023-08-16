@@ -404,6 +404,10 @@ top: 0px;
 .btn:hover {
   text-decoration: underline;
 }
+#reservation { 
+  height: 950px;
+}
+
 
 
 footer {
